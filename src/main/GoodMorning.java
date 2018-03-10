@@ -6,6 +6,8 @@ public class GoodMorning {
 
 			System.out.println("good morning class new");
 			
+			System.out.println("I made changes before pull");
+			
 
 	}
 
