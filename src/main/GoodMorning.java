@@ -10,7 +10,7 @@ public class GoodMorning {
 			
 			int a = 55;
 			
-			System.out.println(" pull");
+			System.out.println(" pull"+a);
 	}
 
 }
