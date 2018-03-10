@@ -8,6 +8,8 @@ public class GoodMorning {
 			
 			System.out.println("I made changes before pull");
 			
+			int a = 55;
+			
 			System.out.println(" pull");
 	}
 
